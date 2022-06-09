@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAALC7uwsAAACwm5lVtQsAALvZPTNdvQCwm92ZPTPVC7DZmZmZM1MLm5mZmZk507WbmZmZmdkztZuZmZmZmTO1m5mZmZmZM7WbmRGRmZkztZuZEZGZmVO1sJkRkZnZXQuwm5kZmd21CwC7mZnZXbsAALCbmZm5CwAAALC7uwsAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "asterodie"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAALC7uwsAAACwm5lVtQsAALvZPTNdvQCwm92ZPTPVC7DZmZmZM1MLm5mZmZk507WbmZmZmdkztZuZmZmZmTO1m5mZmZmZM7WbmRGRmZkztZuZEZGZmVO1sJkRkZnZXQuwm5kZmd21CwC7mZnZXbsAALCbmZm5CwAAALC7uwsAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "asteroide"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
